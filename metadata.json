@@ -1,0 +1,6 @@
+{
+  "name": "Smart Student Study Planner",
+  "description": "An AI-powered student study planner that organizes notes, assignments, calendars, and focus sessions, complete with an AI Study Planner, Homework Helper, Quiz Generator, and Pomodoro focus tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
